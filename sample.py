@@ -1,1 +1,2 @@
-New file created
+def hello():
+    print('Hello, world!')
