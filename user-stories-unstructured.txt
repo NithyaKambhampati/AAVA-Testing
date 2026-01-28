@@ -1,0 +1,11 @@
+The issue status in Jira does not update correctly after resolution and often shows outdated information until manually refreshed.
+
+I am unable to see all bugs linked to a user story, which causes missed dependencies and late discoveries during the sprint.
+
+Jira sometimes throws an error when transitioning an issue, but it does not provide a clear reason or guidance to fix it.
+
+Finding high-priority or critical bugs across multiple projects is difficult because filters return inconsistent results.
+
+Automated updates and comments on Jira tickets are unclear, making it hard to understand what exactly changed and why.
+
+When a ticket is moved between boards or projects, important fields get reset or lost, leading to confusion and rework.
